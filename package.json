@@ -1,0 +1,16 @@
+{
+  "name": "javascript-classes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yappps/javascript-classes.git",
+  "author": "yappps <yapyuanxin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+      "test": "jest",     
+      "test:watch": "jest --watch",
+      "test:coverage": "jest --coverage"
+  }
+}
